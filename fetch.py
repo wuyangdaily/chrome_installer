@@ -148,11 +148,11 @@ def humansize(nbytes):
 
 
 def save_md(results, file_path="readme.md"):
-    index_url = "https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#"
+    index_url = "https://github.com/wuyangdaily/chrome_installer?tab=readme-ov-file#"
     with open(file_path, "w") as f:
         f.write("# Google Chrome 离线安装包（请使用 7-Zip 解压）\n")
         f.write(
-            "稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>\n\n"
+            "稳定版存档：[Google-Chrome-Stable](https://github.com/wuyangdaily/chrome_installer/releases)\n\n"
         )
         f.write("## 目录\n")
         for name in results.keys():
@@ -185,3 +185,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
