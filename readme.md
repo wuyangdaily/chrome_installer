@@ -1,19 +1,19 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
+稳定版存档：[Google-Chrome-Stable](https://github.com/wuyangdaily/chrome_installer/releases)
 
 ## 目录
-* [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
-* [win stable x64](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x64)
-* [win stable arm64](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-arm64)
-* [win beta x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-beta-x86)
-* [win beta x64](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-beta-x64)
-* [win beta arm64](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-beta-arm64)
-* [win dev x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-dev-x86)
-* [win dev x64](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-dev-x64)
-* [win dev arm64](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-dev-arm64)
-* [win canary x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-canary-x86)
-* [win canary x64](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-canary-x64)
-* [win canary arm64](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-canary-arm64)
+* [win stable x86](https://github.com/wuyangdaily/chrome_installer?tab=readme-ov-file#win-stable-x86)
+* [win stable x64](https://github.com/wuyangdaily/chrome_installer?tab=readme-ov-file#win-stable-x64)
+* [win stable arm64](https://github.com/wuyangdaily/chrome_installer?tab=readme-ov-file#win-stable-arm64)
+* [win beta x86](https://github.com/wuyangdaily/chrome_installer?tab=readme-ov-file#win-beta-x86)
+* [win beta x64](https://github.com/wuyangdaily/chrome_installer?tab=readme-ov-file#win-beta-x64)
+* [win beta arm64](https://github.com/wuyangdaily/chrome_installer?tab=readme-ov-file#win-beta-arm64)
+* [win dev x86](https://github.com/wuyangdaily/chrome_installer?tab=readme-ov-file#win-dev-x86)
+* [win dev x64](https://github.com/wuyangdaily/chrome_installer?tab=readme-ov-file#win-dev-x64)
+* [win dev arm64](https://github.com/wuyangdaily/chrome_installer?tab=readme-ov-file#win-dev-arm64)
+* [win canary x86](https://github.com/wuyangdaily/chrome_installer?tab=readme-ov-file#win-canary-x86)
+* [win canary x64](https://github.com/wuyangdaily/chrome_installer?tab=readme-ov-file#win-canary-x64)
+* [win canary arm64](https://github.com/wuyangdaily/chrome_installer?tab=readme-ov-file#win-canary-arm64)
 
 ## win stable x86
 **最新版本**：139.0.7258.139  
