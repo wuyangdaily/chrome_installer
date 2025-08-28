@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-稳定版存档：https://github.com/Bush2021/chrome_installer/releases
+稳定版存档：[Google-Chrome-Stable](https://github.com/wuyangdaily/chrome_installer/releases)
 
 ## 目录
 
