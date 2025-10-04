@@ -36,7 +36,7 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 校验 | 下载链接 |
 |------|--------|----------|-------------|----------|
-| **x86** | `143.0.7451.0` | 348.89 MB | `3ce3b9cf44e07e0e...` | [下载](https://dl.google.com/release2/chrome/adx4fa5sb6vlbwi6yjrdtwyza5kq_143.0.7451.0/143.0.7451.0_chrome_installer_uncompressed.exe) |
-| **x64** | `143.0.7451.0` | 421.88 MB | `64c3bdcdf006a5d3...` | [下载](https://dl.google.com/release2/chrome/omrcrcry4pqtcyuiq5l5pdvvxy_143.0.7451.0/143.0.7451.0_chrome_installer_uncompressed.exe) |
-| **ARM64** | `143.0.7451.0` | 413.26 MB | `0f136cd70a6a6e01...` | [下载](https://dl.google.com/release2/chrome/adxswqkvxde43yp3pnksk4aeaioa_143.0.7451.0/143.0.7451.0_chrome_installer_uncompressed.exe) |
+| **x86** | `143.0.7452.0` | 349.14 MB | `15c2849d71164da2...` | [下载](https://dl.google.com/release2/chrome/acz57sgdxazhkb5jowvonzbmvztq_143.0.7452.0/143.0.7452.0_chrome_installer_uncompressed.exe) |
+| **x64** | `143.0.7452.0` | 421.51 MB | `a6d005d37cfdd2fb...` | [下载](https://dl.google.com/release2/chrome/ato3fds3g2jquodpjsintnsfka_143.0.7452.0/143.0.7452.0_chrome_installer_uncompressed.exe) |
+| **ARM64** | `143.0.7452.0` | 413.24 MB | `9b18d037a69bedcf...` | [下载](https://dl.google.com/release2/chrome/hjuyougrlfcq7xyis4xvywt4gm_143.0.7452.0/143.0.7452.0_chrome_installer_uncompressed.exe) |
 
