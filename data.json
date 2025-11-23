@@ -126,17 +126,17 @@
         ]
     },
     "win_canary_x86": {
-        "version": "144.0.7540.0",
-        "size": 367241128,
-        "sha1": "be03cf83fdf4376a6867eca9dce9ed17c429c8a5",
-        "sha256": "2193a0d262ed6eddb299495a5272d32b1279782940a00b8a434140b38bcb459c",
+        "version": "144.0.7540.1",
+        "size": 551331240,
+        "sha1": "ea5f0e7e1ff40f6a8aecc2a53cf95ed0e0cbbe11",
+        "sha256": "c7239df08939d5016724cf0a69a05127572cc3c21ebf59f869120947ca7876ba",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/dxozbd5r4renhpcbgfkz57xsom_144.0.7540.0/144.0.7540.0_chrome_installer_uncompressed.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/dxozbd5r4renhpcbgfkz57xsom_144.0.7540.0/144.0.7540.0_chrome_installer_uncompressed.exe",
-            "http://dl.google.com/release2/chrome/dxozbd5r4renhpcbgfkz57xsom_144.0.7540.0/144.0.7540.0_chrome_installer_uncompressed.exe",
-            "https://dl.google.com/release2/chrome/dxozbd5r4renhpcbgfkz57xsom_144.0.7540.0/144.0.7540.0_chrome_installer_uncompressed.exe",
-            "http://www.google.com/dl/release2/chrome/dxozbd5r4renhpcbgfkz57xsom_144.0.7540.0/144.0.7540.0_chrome_installer_uncompressed.exe",
-            "https://www.google.com/dl/release2/chrome/dxozbd5r4renhpcbgfkz57xsom_144.0.7540.0/144.0.7540.0_chrome_installer_uncompressed.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acafncyfynvp74ovghx3vlztj6ua_144.0.7540.1/144.0.7540.1_chrome_installer_uncompressed.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acafncyfynvp74ovghx3vlztj6ua_144.0.7540.1/144.0.7540.1_chrome_installer_uncompressed.exe",
+            "http://dl.google.com/release2/chrome/acafncyfynvp74ovghx3vlztj6ua_144.0.7540.1/144.0.7540.1_chrome_installer_uncompressed.exe",
+            "https://dl.google.com/release2/chrome/acafncyfynvp74ovghx3vlztj6ua_144.0.7540.1/144.0.7540.1_chrome_installer_uncompressed.exe",
+            "http://www.google.com/dl/release2/chrome/acafncyfynvp74ovghx3vlztj6ua_144.0.7540.1/144.0.7540.1_chrome_installer_uncompressed.exe",
+            "https://www.google.com/dl/release2/chrome/acafncyfynvp74ovghx3vlztj6ua_144.0.7540.1/144.0.7540.1_chrome_installer_uncompressed.exe"
         ]
     },
     "win_canary_x64": {
