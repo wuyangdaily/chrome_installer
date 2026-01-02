@@ -36,7 +36,7 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 校验 | 下载链接 |
 |------|--------|----------|-------------|----------|
-| **x86** | `145.0.7611.4` | 531.55 MB | `43ebe4d0d7df6308...` | [下载](https://dl.google.com/release2/chrome/j77gionrmh4dgzl6rglc47xcge_145.0.7611.4/145.0.7611.4_chrome_installer_uncompressed.exe) |
+| **x86** | `145.0.7613.0` | 355.89 MB | `4acc1f8e14251fbb...` | [下载](https://dl.google.com/release2/chrome/et7qj3kugrj24hwqtpjyewddbi_145.0.7613.0/145.0.7613.0_chrome_installer_uncompressed.exe) |
 | **x64** | `145.0.7613.0` | 429.27 MB | `6eb4cbb6a64b340e...` | [下载](https://dl.google.com/release2/chrome/acar6us6zy4jtlg5f73wwiljwkqq_145.0.7613.0/145.0.7613.0_chrome_installer_uncompressed.exe) |
-| **ARM64** | `145.0.7611.3` | 589.64 MB | `685d53874f09cad4...` | [下载](https://dl.google.com/release2/chrome/d2gt2323w2cgd3lscztdvig76y_145.0.7611.3/145.0.7611.3_chrome_installer_uncompressed.exe) |
+| **ARM64** | `145.0.7613.0` | 419.29 MB | `402434abff4491af...` | [下载](https://dl.google.com/release2/chrome/ilo4pyonon5bbnfg2vhnmdfbre_145.0.7613.0/145.0.7613.0_chrome_installer_uncompressed.exe) |
 
