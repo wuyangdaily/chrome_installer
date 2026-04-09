@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto update Chrome 147.0.7727.56 at 2026-04-09 23:14
+> 📝 Auto update Chrome 147.0.7727.56 at 2026-04-10 00:58
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -30,9 +30,9 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `148.0.7766.3` | 370.53 MB | `091a1f79d5b72512...` | [下载](https://dl.google.com/release2/chrome/adnnap5svn76m3i4tbrnbfyeotda_148.0.7766.3/148.0.7766.3_chrome_installer_uncompressed.exe) |
-| x64 | `148.0.7766.3` | 451.75 MB | `246bbe305e9b1646...` | [下载](https://dl.google.com/release2/chrome/acpza3zl6xnoz5wsgboggpaukc3a_148.0.7766.3/148.0.7766.3_chrome_installer_uncompressed.exe) |
-| arm64 | `148.0.7766.3` | 434.42 MB | `bab3535bab93444c...` | [下载](https://dl.google.com/release2/chrome/gf2tvzsvy2rhzikvwh6bd2gg6m_148.0.7766.3/148.0.7766.3_chrome_installer_uncompressed.exe) |
+| x86 | `149.0.7779.3` | 371.72 MB | `2dc26a3b58e6f529...` | [下载](https://dl.google.com/release2/chrome/acpec46bor4z4d2io432sahcdnuq_149.0.7779.3/149.0.7779.3_chrome_installer_uncompressed.exe) |
+| x64 | `149.0.7779.3` | 455.85 MB | `12c2cd8b58287428...` | [下载](https://dl.google.com/release2/chrome/c4nsjv6kbftybsx3uj4nliwtou_149.0.7779.3/149.0.7779.3_chrome_installer_uncompressed.exe) |
+| arm64 | `149.0.7779.3` | 435.54 MB | `0d7120335250fc3e...` | [下载](https://dl.google.com/release2/chrome/ad5nv7n44l7uxrftwpkzyloyks7q_149.0.7779.3/149.0.7779.3_chrome_installer_uncompressed.exe) |
 
 ## Canary
 
@@ -40,5 +40,5 @@
 |------|--------|----------|--------|------|
 | x86 | `149.0.7781.0` | 373.54 MB | `5810a1ae7bd84ca7...` | [下载](https://dl.google.com/release2/chrome/nzpklfiqj6cdkymempwgtqgyiy_149.0.7781.0/149.0.7781.0_chrome_installer_uncompressed.exe) |
 | x64 | `149.0.7781.1` | 685.27 MB | `fdc54ec83a39ddb8...` | [下载](https://dl.google.com/release2/chrome/adf5p65jxd33ewhdvzzpaonf7toa_149.0.7781.1/149.0.7781.1_chrome_installer_uncompressed.exe) |
-| arm64 | `149.0.7781.0` | 438.73 MB | `76cc3906c47485e4...` | [下载](https://dl.google.com/release2/chrome/ad44jevfdzwsl73x6vgz6koz4lrq_149.0.7781.0/149.0.7781.0_chrome_installer_uncompressed.exe) |
+| arm64 | `149.0.7781.1` | 618.78 MB | `c3ccebd767a32084...` | [下载](https://dl.google.com/release2/chrome/mhynprdemr6fcjkqz36sipinqq_149.0.7781.1/149.0.7781.1_chrome_installer_uncompressed.exe) |
 
