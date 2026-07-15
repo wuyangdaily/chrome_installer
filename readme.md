@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto update Chrome 150.0.7871.125 at 2026-07-16 02:56
+> 📝 Auto update Chrome 150.0.7871.125 at 2026-07-16 04:04
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -38,7 +38,7 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `152.0.7951.0` | 401.49 MB | `0cdb102db67262b5...` | [下载](https://dl.google.com/release2/chrome/pfmwqkwi4iut5h43k7ka6u6yhe_152.0.7951.0/152.0.7951.0_chrome_installer_uncompressed.exe) |
-| x64 | `152.0.7951.0` | 489.86 MB | `48d6abe5f0168e06...` | [下载](https://dl.google.com/release2/chrome/ac642xuavi3sskfjxveqhz7zyq6a_152.0.7951.0/152.0.7951.0_chrome_installer_uncompressed.exe) |
-| arm64 | `152.0.7951.1` | 677.34 MB | `ddc2e175d60c7969...` | [下载](https://dl.google.com/release2/chrome/adccxnp2ln6jaztt73mdfhgrfrlq_152.0.7951.1/152.0.7951.1_chrome_installer_uncompressed.exe) |
+| x86 | `152.0.7951.1` | 624.84 MB | `881c3d212f5d7fa0...` | [下载](https://dl.google.com/release2/chrome/ac67iubuo42vkw7sfmtelopf3wpa_152.0.7951.1/152.0.7951.1_chrome_installer_uncompressed.exe) |
+| x64 | `152.0.7952.0` | 489.87 MB | `b9f4f6e8bfdde078...` | [下载](https://dl.google.com/release2/chrome/acwxzvpehuaezte7vinlicbnjliq_152.0.7952.0/152.0.7952.0_chrome_installer_uncompressed.exe) |
+| arm64 | `152.0.7952.0` | 465.6 MB | `0e27443998320a3d...` | [下载](https://dl.google.com/release2/chrome/aljms5vywksepx2rqyif4powhu_152.0.7952.0/152.0.7952.0_chrome_installer_uncompressed.exe) |
 
