@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto update Chrome 150.0.7871.129 at 2026-07-17 15:12
+> 📝 Auto update Chrome 150.0.7871.129 at 2026-07-17 17:48
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -71,17 +71,17 @@ b56e4e601e61ebd232e06eb3099d9e0c419a3e7e988d595342cc53e69d2a6016  arm64_151.0.79
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `152.0.7954.0` | 401.7 MB | `aa44874531764768...` | [下载](https://dl.google.com/release2/chrome/adugptv5bj4zqasvpwviozvkcq2a_152.0.7954.0/152.0.7954.0_chrome_installer_uncompressed.exe) |
-| x64 | `152.0.7954.1` | 750.53 MB | `d47731b986e6de24...` | [下载](https://dl.google.com/release2/chrome/l4jbipfqolon2zd4566ypfvery_152.0.7954.1/152.0.7954.1_chrome_installer_uncompressed.exe) |
-| arm64 | `152.0.7954.0` | 466.02 MB | `4feec06268a89086...` | [下载](https://dl.google.com/release2/chrome/jeec3q44kwxmjn7e5vatol57xi_152.0.7954.0/152.0.7954.0_chrome_installer_uncompressed.exe) |
+| x86 | `152.0.7955.0` | 401.93 MB | `00a2e290b494e2d5...` | [下载](https://dl.google.com/release2/chrome/bq2ttthkuy6u5ze3owguxe3bpm_152.0.7955.0/152.0.7955.0_chrome_installer_uncompressed.exe) |
+| x64 | `152.0.7955.0` | 490.21 MB | `36a6a30e32a5920e...` | [下载](https://dl.google.com/release2/chrome/acguvhpznkkzuu2lx7z2um2hg7aa_152.0.7955.0/152.0.7955.0_chrome_installer_uncompressed.exe) |
+| arm64 | `152.0.7955.0` | 466.1 MB | `dfc573259d160609...` | [下载](https://dl.google.com/release2/chrome/iafxcj325vgxioqpubvj6s43ie_152.0.7955.0/152.0.7955.0_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-aa448745317647683d3dc0e7963acb896d83b2cc90f63ea05a8403562b7cc77c  x86_152.0.7954.0
-d47731b986e6de24ef556fdb186708b55c0d1b5a8278c05ce50cc92170f6ac2b  x64_152.0.7954.1
-4feec06268a8908650f9d3d61039d1fb8dd5ce36b59544bafc32417e35c0d8e5  arm64_152.0.7954.0
+00a2e290b494e2d5bff332f6d133ea269d7caf6a07117e8c9d4f81bbf6cbac42  x86_152.0.7955.0
+36a6a30e32a5920ebd70159267aa0d9f477743cb3a6165d4750ee749a4f2d38e  x64_152.0.7955.0
+dfc573259d16060929cbfcca62228523e21a1add6b37b96739a6d563327321d6  arm64_152.0.7955.0
 ```
 
 </details>
