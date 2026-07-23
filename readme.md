@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto update Chrome 150.0.7871.182 at 2026-07-24 03:00
+> 📝 Auto update Chrome 150.0.7871.187 at 2026-07-24 04:51
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -14,17 +14,17 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `150.0.7871.182` | 382.38 MB | `ee07e6ef86f41894...` | [下载](https://dl.google.com/release2/chrome/adgts5ds2tycxzj6kla4yya4i7kq_150.0.7871.182/150.0.7871.182_chrome_installer_uncompressed.exe) |
-| x64 | `150.0.7871.182` | 466.61 MB | `150c67da8c0a5e40...` | [下载](https://dl.google.com/release2/chrome/acz7bi4upto224cpgfqo2nklbxfa_150.0.7871.182/150.0.7871.182_chrome_installer_uncompressed.exe) |
-| arm64 | `150.0.7871.182` | 445.31 MB | `9a87369171a9fbde...` | [下载](https://dl.google.com/release2/chrome/ikqrlqwwsmlwtmaxhhq6yh2fhq_150.0.7871.182/150.0.7871.182_chrome_installer_uncompressed.exe) |
+| x86 | `150.0.7871.187` | 382.38 MB | `5e6c490ebc641e8b...` | [下载](https://dl.google.com/release2/chrome/ad723hqdgj643yfirykks36a2lmq_150.0.7871.187/150.0.7871.187_chrome_installer_uncompressed.exe) |
+| x64 | `150.0.7871.187` | 466.61 MB | `ebd1e560964b89aa...` | [下载](https://dl.google.com/release2/chrome/advqzie6g3gpcqe35ou4bp5inmbq_150.0.7871.187/150.0.7871.187_chrome_installer_uncompressed.exe) |
+| arm64 | `150.0.7871.187` | 445.31 MB | `ac00b36dbec64bbe...` | [下载](https://dl.google.com/release2/chrome/acwao2prc22btvjhe3v7tdcip5qa_150.0.7871.187/150.0.7871.187_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-ee07e6ef86f4189450cc72d0ec481f347dedf744dd0b74f35165a774db28477b  x86_150.0.7871.182
-150c67da8c0a5e408c2109d14e889170aa1bc83d70d2de3fd1096669c4b1b18f  x64_150.0.7871.182
-9a87369171a9fbde93b590054983b6a85c34cbf9e57dc9c71ba8d173e16c79eb  arm64_150.0.7871.182
+5e6c490ebc641e8b4d202da6e37a1070447334d029aca3211e05e8e94df4aa44  x86_150.0.7871.187
+ebd1e560964b89aa28e5841d3b380fd09433dfe9e2373dde41cd4a0c3d945965  x64_150.0.7871.187
+ac00b36dbec64bbee2028d9f96166f54f108ff54754856235bd7d346b664dd68  arm64_150.0.7871.187
 ```
 
 </details>
@@ -71,17 +71,17 @@ ee07e6ef86f4189450cc72d0ec481f347dedf744dd0b74f35165a774db28477b  x86_150.0.7871
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `152.0.7967.1` | 622.51 MB | `f0e0eee738793343...` | [下载](https://dl.google.com/release2/chrome/bwdhbevexnw2332nnpezri4bwy_152.0.7967.1/152.0.7967.1_chrome_installer_uncompressed.exe) |
-| x64 | `152.0.7967.1` | 748.49 MB | `72c8b058d9afc38e...` | [下载](https://dl.google.com/release2/chrome/ade2ecy6q2co2tggk66ukcv4cccq_152.0.7967.1/152.0.7967.1_chrome_installer_uncompressed.exe) |
-| arm64 | `152.0.7967.0` | 465.66 MB | `f1882a2021f18e67...` | [下载](https://dl.google.com/release2/chrome/gjranuktkqxtqglqtkz2p4goji_152.0.7967.0/152.0.7967.0_chrome_installer_uncompressed.exe) |
+| x86 | `152.0.7968.0` | 401.59 MB | `690401f9cc24a838...` | [下载](https://dl.google.com/release2/chrome/n7h4tb2dzo2gblfjbg4w2rjzfu_152.0.7968.0/152.0.7968.0_chrome_installer_uncompressed.exe) |
+| x64 | `152.0.7968.0` | 492.09 MB | `2f33f8c3417d3b63...` | [下载](https://dl.google.com/release2/chrome/k6fh6yrlne2ywl42s5fouaaf7y_152.0.7968.0/152.0.7968.0_chrome_installer_uncompressed.exe) |
+| arm64 | `152.0.7968.0` | 465.18 MB | `152783811196b21d...` | [下载](https://dl.google.com/release2/chrome/hi3pdfpn2lojukpdthtc62l7wu_152.0.7968.0/152.0.7968.0_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-f0e0eee738793343b687ca3ef0c6830514ff7ba59fdaa5d641255a548fda99c4  x86_152.0.7967.1
-72c8b058d9afc38ea87e474c3807fcfae6d74cd21989500c7d6bac0ee14b8b5e  x64_152.0.7967.1
-f1882a2021f18e67d060ccb31896ee7d53c3ff5ba2faef1fe8a37704ec2dc917  arm64_152.0.7967.0
+690401f9cc24a8381017b4ee71aa6c4cfe62a24f428e735fe3abaebcb20be413  x86_152.0.7968.0
+2f33f8c3417d3b6353aafcc25e3b6519812cca81d72e00e7ce27900f14eac864  x64_152.0.7968.0
+152783811196b21dfc0c48be03c54ed1267e6f312a80e609c1b51564871db550  arm64_152.0.7968.0
 ```
 
 </details>
