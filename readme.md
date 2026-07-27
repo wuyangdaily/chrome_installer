@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto update Chrome 150.0.7871.187 at 2026-07-28 02:17
+> 📝 Auto update Chrome 150.0.7871.187 at 2026-07-28 04:14
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -71,17 +71,17 @@ fdf5ef42bea0b8792d6326e4a307c39c07ba94f216556cf7ac3993a6e424bb59  arm64_152.0.79
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `152.0.7975.1` | 622.91 MB | `ba70f53edf5be0ae...` | [下载](https://dl.google.com/release2/chrome/fhniul3vpqfvun7khrsvqou5u4_152.0.7975.1/152.0.7975.1_chrome_installer_uncompressed.exe) |
-| x64 | `152.0.7975.0` | 491.66 MB | `5cf1039cc0076b7e...` | [下载](https://dl.google.com/release2/chrome/adfah4netacng5fthwvu4muzc3hq_152.0.7975.0/152.0.7975.0_chrome_installer_uncompressed.exe) |
-| arm64 | `152.0.7975.0` | 465.54 MB | `7003faea10d82fc4...` | [下载](https://dl.google.com/release2/chrome/ajpaoyn436yn2bjys73spoty2y_152.0.7975.0/152.0.7975.0_chrome_installer_uncompressed.exe) |
+| x86 | `152.0.7976.0` | 402.18 MB | `014335f8f04c2357...` | [下载](https://dl.google.com/release2/chrome/n2gmhbynkapa33kccoqzqpzagi_152.0.7976.0/152.0.7976.0_chrome_installer_uncompressed.exe) |
+| x64 | `152.0.7976.0` | 491.74 MB | `8067b9a597b7926d...` | [下载](https://dl.google.com/release2/chrome/ejidghfakdg4gooxjmjjb55kfu_152.0.7976.0/152.0.7976.0_chrome_installer_uncompressed.exe) |
+| arm64 | `152.0.7975.1` | 675.77 MB | `f7ef293743b49785...` | [下载](https://dl.google.com/release2/chrome/adgubehocnkrub7cqswte3qlnehq_152.0.7975.1/152.0.7975.1_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-ba70f53edf5be0ae2e278ad9dc8abd0f6831a7803c9f91cb64a31065d27ea35a  x86_152.0.7975.1
-5cf1039cc0076b7eb2577dca3f3660f186da108e1368435e9434332304af65f7  x64_152.0.7975.0
-7003faea10d82fc47150d48df5af70ce072bed479de76f6442748267f0e3fcea  arm64_152.0.7975.0
+014335f8f04c23574c1a1f2babb5b02e1e5290fe491b7d43fa50aa9415e9c134  x86_152.0.7976.0
+8067b9a597b7926da08085c32da78c2005cfca09a91db47247b61f02c1e931b1  x64_152.0.7976.0
+f7ef293743b49785940c1a5acae89633e0d8e51ec7ed1a512c30c7361c725f78  arm64_152.0.7975.1
 ```
 
 </details>
