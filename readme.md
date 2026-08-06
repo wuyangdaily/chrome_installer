@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto update Chrome 151.0.7922.76 at 2026-08-06 23:06
+> 📝 Auto update Chrome 151.0.7922.109 at 2026-08-07 07:50
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -14,17 +14,17 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `151.0.7922.76` | 401.45 MB | `d4ba3d106d750356...` | [下载](https://dl.google.com/release2/chrome/aczi7bcukzrbub7v4vyy7zhjxcka_151.0.7922.76/151.0.7922.76_chrome_installer_uncompressed.exe) |
-| x64 | `151.0.7922.76` | 488.72 MB | `97bc8c598143e9e4...` | [下载](https://dl.google.com/release2/chrome/a74exty35q5klwb7wm74vz33oy_151.0.7922.76/151.0.7922.76_chrome_installer_uncompressed.exe) |
-| arm64 | `151.0.7922.76` | 465.33 MB | `3dab039a7a043ac0...` | [下载](https://dl.google.com/release2/chrome/j4grvivghjmj3vpaw2hczgubcu_151.0.7922.76/151.0.7922.76_chrome_installer_uncompressed.exe) |
+| x86 | `151.0.7922.109` | 400.96 MB | `73a907fb0ed89086...` | [下载](https://dl.google.com/release2/chrome/ac6xdns54fjqtukwblpwzzajhjta_151.0.7922.109/151.0.7922.109_chrome_installer_uncompressed.exe) |
+| x64 | `151.0.7922.109` | 488.96 MB | `9f7dc558edb2fdfa...` | [下载](https://dl.google.com/release2/chrome/jfmiyxoi6is5wsugjr5quwwsdi_151.0.7922.109/151.0.7922.109_chrome_installer_uncompressed.exe) |
+| arm64 | `151.0.7922.109` | 465.43 MB | `77491cf437f68671...` | [下载](https://dl.google.com/release2/chrome/adchnltwzfvucduefx6a4w4bcnlq_151.0.7922.109/151.0.7922.109_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-d4ba3d106d750356d1e0323dec875c5b5edfb98151ac1f4b3551056e53a92d5e  x86_151.0.7922.76
-97bc8c598143e9e442d8c260460c0e03fd6c4f75d6386e4ffc7472ebc8f25ce3  x64_151.0.7922.76
-3dab039a7a043ac01fc7966bef17bcd68673a6679db1144f3a1e383a16954088  arm64_151.0.7922.76
+73a907fb0ed890860d6a89f2e4f1bc2a752f3c9ebb669e5ea67d4e9e12451b47  x86_151.0.7922.109
+9f7dc558edb2fdfac2d9c7d2dddf5bda25ad8f7e558ba9dae777a025abd59e5b  x64_151.0.7922.109
+77491cf437f68671a5aa9cffc3c061da7b73ec28dbf469eb931de7841b08ed96  arm64_151.0.7922.109
 ```
 
 </details>
@@ -71,17 +71,17 @@ f2a6ad09fa1a4b97856a6101de39296503947f32b3d9083a1825b6eb955c669b  arm64_153.0.79
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `153.0.7993.0` | 401.33 MB | `d284a150bbc33b35...` | [下载](https://dl.google.com/release2/chrome/adhp6ffe3zeeubrmey4kmv6mjbdq_153.0.7993.0/153.0.7993.0_chrome_installer_uncompressed.exe) |
-| x64 | `153.0.7993.0` | 488.45 MB | `583d84d783356aa4...` | [下载](https://dl.google.com/release2/chrome/acv6dpvpo5xzeidudpim74pkh32q_153.0.7993.0/153.0.7993.0_chrome_installer_uncompressed.exe) |
-| arm64 | `153.0.7993.0` | 463.33 MB | `f476690ac62d9cca...` | [下载](https://dl.google.com/release2/chrome/ado354fwb3o72qagclccuvjcxocq_153.0.7993.0/153.0.7993.0_chrome_installer_uncompressed.exe) |
+| x86 | `153.0.7994.0` | 401.72 MB | `6ff4b8a30440a5cb...` | [下载](https://dl.google.com/release2/chrome/actgnqg5ezdqtq4vu3tycxyaanta_153.0.7994.0/153.0.7994.0_chrome_installer_uncompressed.exe) |
+| x64 | `153.0.7994.0` | 489.24 MB | `ee2c373430ac443d...` | [下载](https://dl.google.com/release2/chrome/adzi4jkmwjnrxejkdwl6ek7bzxla_153.0.7994.0/153.0.7994.0_chrome_installer_uncompressed.exe) |
+| arm64 | `153.0.7994.0` | 469.39 MB | `fec2d044542169de...` | [下载](https://dl.google.com/release2/chrome/adqj4j6zttvueszzcchnfdthq6eq_153.0.7994.0/153.0.7994.0_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-d284a150bbc33b35e927645de5de3571627207cfafe5052738436e120c010ce0  x86_153.0.7993.0
-583d84d783356aa4b60b3223939e960e3f0944fd99426e61e60eb6e655e9635a  x64_153.0.7993.0
-f476690ac62d9cca391eb5bdfa9a601b1cea036f1ddc1da8f56a5a8ec1b89f85  arm64_153.0.7993.0
+6ff4b8a30440a5cbdce3c550c47d90bf503f52ef1139f3109232e26addeb6261  x86_153.0.7994.0
+ee2c373430ac443d6250c5b5ee2ff0e3d10f37cf4b3946829b76ee6db5fc06ec  x64_153.0.7994.0
+fec2d044542169de151d763b23c0f0858bbd6aa08f09beb0ceecf4f4f42b8275  arm64_153.0.7994.0
 ```
 
 </details>
