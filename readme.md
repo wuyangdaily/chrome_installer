@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto update Chrome 151.0.7922.109 at 2026-08-11 16:03
+> 📝 Auto update Chrome 151.0.7922.109 at 2026-08-11 17:52
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -71,17 +71,17 @@ f476690ac62d9cca391eb5bdfa9a601b1cea036f1ddc1da8f56a5a8ec1b89f85  arm64_153.0.79
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `153.0.8000.0` | 403.42 MB | `62a9b527c08a14ec...` | [下载](https://dl.google.com/release2/chrome/pwk6yucrhvncb5es6si64d3qdi_153.0.8000.0/153.0.8000.0_chrome_installer_uncompressed.exe) |
-| x64 | `153.0.8000.0` | 491.06 MB | `14a63261b4c8cee4...` | [下载](https://dl.google.com/release2/chrome/acpb7g5xj6xn7fnwdcur42frzkgq_153.0.8000.0/153.0.8000.0_chrome_installer_uncompressed.exe) |
-| arm64 | `153.0.8000.1` | 675.14 MB | `d11382f660d0274f...` | [下载](https://dl.google.com/release2/chrome/cxcmzxsdrns47i2vadekqrbu5q_153.0.8000.1/153.0.8000.1_chrome_installer_uncompressed.exe) |
+| x86 | `153.0.8001.0` | 404.72 MB | `7fc69567bc1dbbb1...` | [下载](https://dl.google.com/release2/chrome/kgsbgnpytrugim76dhzcvrbxte_153.0.8001.0/153.0.8001.0_chrome_installer_uncompressed.exe) |
+| x64 | `153.0.8001.0` | 491.41 MB | `f6463a8a4c387e0c...` | [下载](https://dl.google.com/release2/chrome/ffshuc6tkxlqlxkhtug6pxuhti_153.0.8001.0/153.0.8001.0_chrome_installer_uncompressed.exe) |
+| arm64 | `153.0.8001.0` | 466.11 MB | `72c1dd3ff78a36f5...` | [下载](https://dl.google.com/release2/chrome/pb3xzdjex4dcdojuwmx4juwv7e_153.0.8001.0/153.0.8001.0_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-62a9b527c08a14ec2bc9c693285dc485eb148ebb188ffa25e51f4b7e7c516847  x86_153.0.8000.0
-14a63261b4c8cee4e62b353cb876a5e020fdcf7fb8c14664fd5ae32f6551576a  x64_153.0.8000.0
-d11382f660d0274f3c8698edbf0d60ce446f34472e06d446982a190ba7f3c4cc  arm64_153.0.8000.1
+7fc69567bc1dbbb18236005e0390fd8a6c0c46797629d0ac88e4964e24f736f9  x86_153.0.8001.0
+f6463a8a4c387e0cf7008ea5f14e0f73f1c47dc0b960488ab57896cc07d58aaf  x64_153.0.8001.0
+72c1dd3ff78a36f54357c3e229db64c4783bc6a6ed634ebd0fb7b379a4585a74  arm64_153.0.8001.0
 ```
 
 </details>
