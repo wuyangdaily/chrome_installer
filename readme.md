@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto update Chrome 152.0.7977.65 at 2026-08-27 02:51
+> 📝 Auto update Chrome 152.0.7977.65 at 2026-08-27 05:29
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -71,17 +71,17 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `154.0.8025.0` | 416.43 MB | `44f2dfb96d501dfa...` | [下载](https://dl.google.com/release2/chrome/acg3usto7hpfwgqwxz3zlowmch2a_154.0.8025.0/154.0.8025.0_chrome_installer_uncompressed.exe) |
-| x64 | `154.0.8025.0` | 495.59 MB | `6971777a3b389f52...` | [下载](https://dl.google.com/release2/chrome/acnpbmxejbfqxf5jfoobggfjzvya_154.0.8025.0/154.0.8025.0_chrome_installer_uncompressed.exe) |
-| arm64 | `154.0.8024.0` | 473.05 MB | `14f52b85e6d3b869...` | [下载](https://dl.google.com/release2/chrome/b7gavhmb7q46baf4dyxdtpqr54_154.0.8024.0/154.0.8024.0_chrome_installer_uncompressed.exe) |
+| x86 | `154.0.8026.0` | 416.64 MB | `136a09a0cc825e60...` | [下载](https://dl.google.com/release2/chrome/acght6clyc5wzu255ckvttkavhfa_154.0.8026.0/154.0.8026.0_chrome_installer_uncompressed.exe) |
+| x64 | `154.0.8026.0` | 495.96 MB | `52976e00e29e8be2...` | [下载](https://dl.google.com/release2/chrome/hsjpca2sog3f4g3ye4jyvb3j2y_154.0.8026.0/154.0.8026.0_chrome_installer_uncompressed.exe) |
+| arm64 | `154.0.8025.0` | 474.3 MB | `8f0f64b843f678df...` | [下载](https://dl.google.com/release2/chrome/lvkwtuvlvigncoyqk7iere2jom_154.0.8025.0/154.0.8025.0_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-44f2dfb96d501dfaeeaadd79a00ba42b024df2f4ed230e5bf4ddc323b551b48f  x86_154.0.8025.0
-6971777a3b389f527959afc27b2d2ccf4966ea93e9e451455acf8cd54d69889d  x64_154.0.8025.0
-14f52b85e6d3b869d452fb84415592fc4277d2840d688bb9fa212d658e0b965a  arm64_154.0.8024.0
+136a09a0cc825e603b56a207ab89052ca3ed18b239a4924f9f51f7f3ca8db471  x86_154.0.8026.0
+52976e00e29e8be26f120dab0be2c8c8f17f7e652395d8f096a6d942822fe1ef  x64_154.0.8026.0
+8f0f64b843f678df37f63778ccac3231f7c6320794045ed3e8561587d81ce2df  arm64_154.0.8025.0
 ```
 
 </details>
