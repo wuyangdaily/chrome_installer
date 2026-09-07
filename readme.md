@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto Update Chrome 152.0.7977.83 at 2026-09-07 19:06:47
+> 📝 Auto Update Chrome 152.0.7977.83 at 2026-09-08 00:54:15
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -71,17 +71,17 @@ b53e6ed9c5b7798183ebc01ef5fb05bf47ce3ee8cbb010c6246700537fed5e42  x64_155.0.8040
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `155.0.8043.0` | 419.62 MB | `8450dd6989d5481c...` | [下载](https://dl.google.com/release2/chrome/oo54gf5vyzkckytq2tbqmq54uy_155.0.8043.0/155.0.8043.0_chrome_installer_uncompressed.exe) |
-| x64 | `155.0.8043.3` | 766.31 MB | `da6949d01322b5b1...` | [下载](https://dl.google.com/release2/chrome/bp6gneajxcic7xqccasvqzaaa4_155.0.8043.3/155.0.8043.3_chrome_installer_uncompressed.exe) |
-| arm64 | `155.0.8043.2` | 692.18 MB | `7d23f9ce46ab9019...` | [下载](https://dl.google.com/release2/chrome/ad6divrbhpoayoedrqnx76urattq_155.0.8043.2/155.0.8043.2_chrome_installer_uncompressed.exe) |
+| x86 | `155.0.8044.2` | 420.17 MB | `5c0cf6ca30543483...` | [下载](https://dl.google.com/release2/chrome/admrhttdyff455slc27m4erlvlzq_155.0.8044.2/155.0.8044.2_chrome_installer_uncompressed.exe) |
+| x64 | `155.0.8044.2` | 495.74 MB | `6e7d3e9184a82a14...` | [下载](https://dl.google.com/release2/chrome/oxyfmmn5dfz6wwy4ys22u7m7ce_155.0.8044.2/155.0.8044.2_chrome_installer_uncompressed.exe) |
+| arm64 | `155.0.8044.2` | 476.39 MB | `0a226d979ed989d7...` | [下载](https://dl.google.com/release2/chrome/lvuplgigeen3rvjjeurwz7gioi_155.0.8044.2/155.0.8044.2_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-8450dd6989d5481c30dc4abfd251186825cb342cd5d32325a584d685e17b3fcc  x86_155.0.8043.0
-da6949d01322b5b10ae92711d3dce349a08a52958f2a500fb403943ff39afcae  x64_155.0.8043.3
-7d23f9ce46ab90191ffc829b3c976467d26a200f840337ad824d6e3bc4cad864  arm64_155.0.8043.2
+5c0cf6ca305434839784763d99577f689117dc76e7c25d73b82f1e638d80cc08  x86_155.0.8044.2
+6e7d3e9184a82a14a2ff508b573d8a30bcf6d70d4c9c3849da5033a9df807035  x64_155.0.8044.2
+0a226d979ed989d7e4d522e254773408d39d4b9d799477a8fcb03bf5826ba218  arm64_155.0.8044.2
 ```
 
 </details>
