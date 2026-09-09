@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto Update Chrome 153.0.8010.37 at 2026-09-10 02:12:50
+> 📝 Auto Update Chrome 153.0.8010.37 at 2026-09-10 05:23:51
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -71,17 +71,17 @@ b53e6ed9c5b7798183ebc01ef5fb05bf47ce3ee8cbb010c6246700537fed5e42  x64_155.0.8040
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `155.0.8048.0` | 420.63 MB | `b6bce3e368cf1243...` | [下载](https://dl.google.com/release2/chrome/ff62sl6gxoqf6ffpe2mqisofq4_155.0.8048.0/155.0.8048.0_chrome_installer_uncompressed.exe) |
-| x64 | `155.0.8048.0` | 498.18 MB | `84d70e8a551526f9...` | [下载](https://dl.google.com/release2/chrome/mlfs5ih4v2vehj4d6q7kgv6uj4_155.0.8048.0/155.0.8048.0_chrome_installer_uncompressed.exe) |
-| arm64 | `155.0.8048.0` | 476.48 MB | `2539123af398889d...` | [下载](https://dl.google.com/release2/chrome/achth3ejk6cyfponcrugxqa4l7ia_155.0.8048.0/155.0.8048.0_chrome_installer_uncompressed.exe) |
+| x86 | `155.0.8049.0` | 420.73 MB | `3159d1ac0856d2be...` | [下载](https://dl.google.com/release2/chrome/adjnrcxrzj3a26327ubeevoowfka_155.0.8049.0/155.0.8049.0_chrome_installer_uncompressed.exe) |
+| x64 | `155.0.8049.0` | 498.61 MB | `c50bdb90e1fd3c21...` | [下载](https://dl.google.com/release2/chrome/addzj4uguptcejro4wchjq4p54da_155.0.8049.0/155.0.8049.0_chrome_installer_uncompressed.exe) |
+| arm64 | `155.0.8049.0` | 477.03 MB | `1fdbb31593b6cbd7...` | [下载](https://dl.google.com/release2/chrome/ac34qsqfzf4o3osg7gawknkpt4pa_155.0.8049.0/155.0.8049.0_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-b6bce3e368cf1243c37215167fd428f518d07c6139e2fcd20d2dc874b97700a6  x86_155.0.8048.0
-84d70e8a551526f9c71a6791a88506ad33a60486997518551a1629a053a14366  x64_155.0.8048.0
-2539123af398889d1a5a7407a5d0323018c2c89317b5f7f9fa38077492b64301  arm64_155.0.8048.0
+3159d1ac0856d2bec7fb33217cd22be108b4499e7ead2e69e6a3215474cef63a  x86_155.0.8049.0
+c50bdb90e1fd3c21d6e98d86c9a33956bdb24e52e75b722335155f1a78b9ad52  x64_155.0.8049.0
+1fdbb31593b6cbd730afab05156f0456715b298d8633089a3acb8f9a93a3468a  arm64_155.0.8049.0
 ```
 
 </details>
