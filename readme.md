@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto Update Chrome 154.0.8037.58 at 2026-09-29 21:34:23
+> 📝 Auto Update Chrome 154.0.8037.93 at 2026-09-30 02:59:48
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -14,17 +14,17 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `154.0.8037.58` | 417.99 MB | `f6aabc920ea97614...` | [下载](https://dl.google.com/release2/chrome/diykj2uwzb5vf5pzqzkcrg6qee_154.0.8037.58/154.0.8037.58_chrome_installer_uncompressed.exe) |
-| x64 | `154.0.8037.58` | 496.05 MB | `addd2ef92bcf7b03...` | [下载](https://dl.google.com/release2/chrome/acalovr2zbqjgtc257lbvuvb5pka_154.0.8037.58/154.0.8037.58_chrome_installer_uncompressed.exe) |
-| arm64 | `154.0.8037.58` | 475.15 MB | `5c2c2e167cb1a3be...` | [下载](https://dl.google.com/release2/chrome/adkpm32oh76glrypwlsh7aorr3mq_154.0.8037.58/154.0.8037.58_chrome_installer_uncompressed.exe) |
+| x86 | `154.0.8037.93` | 418.02 MB | `8afed0a458de53ae...` | [下载](https://dl.google.com/release2/chrome/ad2o76wk76c3nmahm2zvf5u3nzya_154.0.8037.93/154.0.8037.93_chrome_installer_uncompressed.exe) |
+| x64 | `154.0.8037.93` | 495.82 MB | `dc19d591b8c6d084...` | [下载](https://dl.google.com/release2/chrome/jn2gux5cxlyyg3xmconseuamzu_154.0.8037.93/154.0.8037.93_chrome_installer_uncompressed.exe) |
+| arm64 | `154.0.8037.93` | 475.2 MB | `f7938de561c7194e...` | [下载](https://dl.google.com/release2/chrome/iip5s2yvbxyc3hed5kfahijxmq_154.0.8037.93/154.0.8037.93_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-f6aabc920ea976149b840fbf81afae90d995529088039553aec996cff759076b  x86_154.0.8037.58
-addd2ef92bcf7b036860f7a6d85fb8187aa62d4a323fc8bdb5ea8ecb6eb5caa2  x64_154.0.8037.58
-5c2c2e167cb1a3be805d735e80debe9a82bf1c2d10776ab4a2dbca3a044034db  arm64_154.0.8037.58
+8afed0a458de53ae20fac377fbb351d26e30bb9f701b9895b9c20bee2f01e767  x86_154.0.8037.93
+dc19d591b8c6d08476d96c81497538c3e0d4fb35a5c16a1e02845f1644964c38  x64_154.0.8037.93
+f7938de561c7194eae69ca7b1328244d786812779dbb5e36abfe3bd3c19d756d  arm64_154.0.8037.93
 ```
 
 </details>
@@ -71,17 +71,17 @@ b60c470ee6d819192957da8c56558733208f9a2055249d96b42c8528855e24fc  x86_156.0.8072
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `156.0.8078.0` | 426.1 MB | `a091184a8e6a1830...` | [下载](https://dl.google.com/release2/chrome/add44d3j34uakwc2sjpnah3o44ma_156.0.8078.0/156.0.8078.0_chrome_installer_uncompressed.exe) |
-| x64 | `156.0.8078.0` | 498.63 MB | `6331af55c1556e2f...` | [下载](https://dl.google.com/release2/chrome/adfp4x5qv33bihqgdayvebfutlsq_156.0.8078.0/156.0.8078.0_chrome_installer_uncompressed.exe) |
-| arm64 | `156.0.8078.0` | 476.78 MB | `233d2eabe12fca15...` | [下载](https://dl.google.com/release2/chrome/acbd3wavdgvpu7sfu5umzgccfbca_156.0.8078.0/156.0.8078.0_chrome_installer_uncompressed.exe) |
+| x86 | `156.0.8078.3` | 426.1 MB | `90f5c0433cc4b313...` | [下载](https://dl.google.com/release2/chrome/hacps2wd3dqkl3zky6qshvflgu_156.0.8078.3/156.0.8078.3_chrome_installer_uncompressed.exe) |
+| x64 | `156.0.8078.3` | 498.63 MB | `5cfdee0d756a7d8a...` | [下载](https://dl.google.com/release2/chrome/lufx4w5itaa3oqsjca7qjusu6m_156.0.8078.3/156.0.8078.3_chrome_installer_uncompressed.exe) |
+| arm64 | `156.0.8078.3` | 476.78 MB | `d95a0275efeae099...` | [下载](https://dl.google.com/release2/chrome/h736mrumntvwhk2qlbbsywkihu_156.0.8078.3/156.0.8078.3_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-a091184a8e6a183097002d285ac8b088321c27234d0c33127c6f796eef07b72a  x86_156.0.8078.0
-6331af55c1556e2f87da26d44fb8fec78802582fa759cde2ca9345a31945ae64  x64_156.0.8078.0
-233d2eabe12fca15a8ce6a855dddb8bfae20b4c1f40e21283e740a8adad2a053  arm64_156.0.8078.0
+90f5c0433cc4b31322d7645a207dc0f7879a691db83f401fef87c0515467ae15  x86_156.0.8078.3
+5cfdee0d756a7d8a27a3a6c75348271d64f909d8538febde57ff714e2fed44a6  x64_156.0.8078.3
+d95a0275efeae099f5524cc595b6eedde1bd55c2758b79564b165c581e87a930  arm64_156.0.8078.3
 ```
 
 </details>
