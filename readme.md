@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto Update Chrome 154.0.8037.98 at 2026-10-02 15:45:48
+> 📝 Auto Update Chrome 154.0.8037.98 at 2026-10-02 22:20:12
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -71,17 +71,17 @@ b60c470ee6d819192957da8c56558733208f9a2055249d96b42c8528855e24fc  x86_156.0.8072
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `157.0.8082.0` | 427.86 MB | `044e15e552945bc1...` | [下载](https://dl.google.com/release2/chrome/ac7nr7vy2ifrfla733n2yrxotx6a_157.0.8082.0/157.0.8082.0_chrome_installer_uncompressed.exe) |
-| x64 | `157.0.8082.0` | 502.62 MB | `c28f680db8bdd989...` | [下载](https://dl.google.com/release2/chrome/hbn5prrsayz3whkw364p5x5zqu_157.0.8082.0/157.0.8082.0_chrome_installer_uncompressed.exe) |
-| arm64 | `157.0.8082.0` | 478.17 MB | `005e61e39e02681b...` | [下载](https://dl.google.com/release2/chrome/o7mmn3uy4rrxxepj2lgb2yeeg4_157.0.8082.0/157.0.8082.0_chrome_installer_uncompressed.exe) |
+| x86 | `157.0.8083.0` | 427.95 MB | `02ffd38691ff4ad2...` | [下载](https://dl.google.com/release2/chrome/cpzgjebnr4cig3vy7ysgajpwyu_157.0.8083.0/157.0.8083.0_chrome_installer_uncompressed.exe) |
+| x64 | `157.0.8083.0` | 502.36 MB | `391441c09e2d9407...` | [下载](https://dl.google.com/release2/chrome/ketbjcevrjb4t2jwvb36crbvbu_157.0.8083.0/157.0.8083.0_chrome_installer_uncompressed.exe) |
+| arm64 | `157.0.8083.0` | 478.14 MB | `7492deb366c28f39...` | [下载](https://dl.google.com/release2/chrome/ad5ljvgy3ijr6htjh5zqty3vl4yq_157.0.8083.0/157.0.8083.0_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-044e15e552945bc1643a64f1cf8842a5812736cf1b90abf1119f4bcefeef3e58  x86_157.0.8082.0
-c28f680db8bdd9899d543bc0dd3ebedc9aca5558862167a0915daee38674fa36  x64_157.0.8082.0
-005e61e39e02681b83dd9c17c8b42c3ff333db0c48f2735f94f189489b5237bb  arm64_157.0.8082.0
+02ffd38691ff4ad23cbfab4e30326c5ee0df460efb0c98017c6989f9b55fb12e  x86_157.0.8083.0
+391441c09e2d9407251934ce30cfe1e28497e693df195710e89b8b291fb2a0bd  x64_157.0.8083.0
+7492deb366c28f393838731201a70530d61d7069db13f60634184777684185cc  arm64_157.0.8083.0
 ```
 
 </details>
