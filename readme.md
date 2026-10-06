@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto Update Chrome 154.0.8037.98 at 2026-10-06 23:34:51
+> 📝 Auto Update Chrome 155.0.8059.40 at 2026-10-07 04:40:20
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -14,17 +14,17 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `154.0.8037.98` | 418.02 MB | `dd9945e3271a08f6...` | [下载](https://dl.google.com/release2/chrome/adlncrhrlmip6efjsmh5j3rnq6vq_154.0.8037.98/154.0.8037.98_chrome_installer_uncompressed.exe) |
-| x64 | `154.0.8037.98` | 495.33 MB | `2d5f2073185cdf8e...` | [下载](https://dl.google.com/release2/chrome/ac3stf7x6z62hvwmphhro6dpbhpq_154.0.8037.98/154.0.8037.98_chrome_installer_uncompressed.exe) |
-| arm64 | `154.0.8037.98` | 475.22 MB | `d3a01842d9d7bd56...` | [下载](https://dl.google.com/release2/chrome/acywoj3yjdggwoxnkmqxkimevloq_154.0.8037.98/154.0.8037.98_chrome_installer_uncompressed.exe) |
+| x86 | `155.0.8059.40` | 422.8 MB | `f586ddb44ced63c6...` | [下载](https://dl.google.com/release2/chrome/acebtw7pmgyxqsd5b653vx6idjoa_155.0.8059.40/155.0.8059.40_chrome_installer_uncompressed.exe) |
+| x64 | `155.0.8059.40` | 498.41 MB | `c43d400e13d421f4...` | [下载](https://dl.google.com/release2/chrome/adeicfs34nqhzmry2l2sdlpo7l2q_155.0.8059.40/155.0.8059.40_chrome_installer_uncompressed.exe) |
+| arm64 | `155.0.8059.40` | 474.4 MB | `db0a36c12f8e7428...` | [下载](https://dl.google.com/release2/chrome/ac6omupkuaxj37onz6gn45r5igna_155.0.8059.40/155.0.8059.40_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-dd9945e3271a08f6cef1b67169fcf906ac3dee37ee027f669d177e8b508a5781  x86_154.0.8037.98
-2d5f2073185cdf8e72bd70b19970bcb2e1ade19a85d68b6be2a3fe672816941d  x64_154.0.8037.98
-d3a01842d9d7bd56c5ea8323558df1f61b7b87018d0624dabf2ffdf32b2d7549  arm64_154.0.8037.98
+f586ddb44ced63c62759a9bfd44fa040c9bd9fa952cad56d688d6b25b2b75f24  x86_155.0.8059.40
+c43d400e13d421f43ea3bba7e502004f2fe428e5679b32975e3a343bc1d97f06  x64_155.0.8059.40
+db0a36c12f8e74289b4d57ace1a04dd870cb470c531d7a29da0128eee3aa3ee6  arm64_155.0.8059.40
 ```
 
 </details>
@@ -71,17 +71,17 @@ b0e57daa0c194d9617cf11480990eadbaef203c541c94741555e132180871b50  x64_157.0.8081
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `157.0.8088.0` | 431.45 MB | `085de1a60f052bad...` | [下载](https://dl.google.com/release2/chrome/adqlp6hxyvkvielhm5jjnp7uey4q_157.0.8088.0/157.0.8088.0_chrome_installer_uncompressed.exe) |
-| x64 | `157.0.8088.0` | 505.08 MB | `5b3534a6c3539079...` | [下载](https://dl.google.com/release2/chrome/adsaq3rfhaoxf2wmrlcec6e2ho5a_157.0.8088.0/157.0.8088.0_chrome_installer_uncompressed.exe) |
-| arm64 | `157.0.8088.0` | 480.94 MB | `ef00ab70c19503ef...` | [下载](https://dl.google.com/release2/chrome/adqahfffqsuitkfmlp4xtdkkwj5a_157.0.8088.0/157.0.8088.0_chrome_installer_uncompressed.exe) |
+| x86 | `157.0.8089.0` | 431.68 MB | `186e1240abb5330b...` | [下载](https://dl.google.com/release2/chrome/ac6w4bxsmni4dnxrhakbzzqqalba_157.0.8089.0/157.0.8089.0_chrome_installer_uncompressed.exe) |
+| x64 | `157.0.8089.0` | 505.31 MB | `874db4ff496f44c2...` | [下载](https://dl.google.com/release2/chrome/ac4e2xwzju4yj2tad2xa6qmyt2xq_157.0.8089.0/157.0.8089.0_chrome_installer_uncompressed.exe) |
+| arm64 | `157.0.8089.0` | 479.89 MB | `0918027b27b251fc...` | [下载](https://dl.google.com/release2/chrome/acn3hsfcfs73czezm6o3sienbsoq_157.0.8089.0/157.0.8089.0_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-085de1a60f052bad54be653348a65f6f164d824a6b56a6fcbc3c5e6b2e8b767a  x86_157.0.8088.0
-5b3534a6c3539079ba6191d7ca74d476f9715c3d614a7c7497e7a685035af248  x64_157.0.8088.0
-ef00ab70c19503ef515caa5042c219e555cc0d3070ac1c31440bbf59a28107b3  arm64_157.0.8088.0
+186e1240abb5330b34b009cd17cf1a3f1c9281b0dfeb053318fd26e6d90f866f  x86_157.0.8089.0
+874db4ff496f44c20071993651db6f5c50533b91cda38147263843a77832fef3  x64_157.0.8089.0
+0918027b27b251fc4ed667b7cb881b8d4f83755b499a9d76f3208cb0900e4d87  arm64_157.0.8089.0
 ```
 
 </details>
