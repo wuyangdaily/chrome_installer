@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto Update Chrome 155.0.8059.40 at 2026-10-14 00:35:43
+> 📝 Auto Update Chrome 155.0.8059.80 at 2026-10-14 05:38:44
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -14,17 +14,17 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `155.0.8059.40` | 422.8 MB | `f586ddb44ced63c6...` | [下载](https://dl.google.com/release2/chrome/acebtw7pmgyxqsd5b653vx6idjoa_155.0.8059.40/155.0.8059.40_chrome_installer_uncompressed.exe) |
-| x64 | `155.0.8059.40` | 498.41 MB | `c43d400e13d421f4...` | [下载](https://dl.google.com/release2/chrome/adeicfs34nqhzmry2l2sdlpo7l2q_155.0.8059.40/155.0.8059.40_chrome_installer_uncompressed.exe) |
-| arm64 | `155.0.8059.40` | 474.4 MB | `db0a36c12f8e7428...` | [下载](https://dl.google.com/release2/chrome/ac6omupkuaxj37onz6gn45r5igna_155.0.8059.40/155.0.8059.40_chrome_installer_uncompressed.exe) |
+| x86 | `155.0.8059.80` | 422.69 MB | `0926ac8f3182e3c2...` | [下载](https://dl.google.com/release2/chrome/adlprnv7saqjcdzfp7kop6nofxea_155.0.8059.80/155.0.8059.80_chrome_installer_uncompressed.exe) |
+| x64 | `155.0.8059.80` | 498.98 MB | `90f385e76ae2d728...` | [下载](https://dl.google.com/release2/chrome/advybryxffwkweengdiwcshvtpwa_155.0.8059.80/155.0.8059.80_chrome_installer_uncompressed.exe) |
+| arm64 | `155.0.8059.80` | 474.39 MB | `300d823840652519...` | [下载](https://dl.google.com/release2/chrome/ac2qgqy4oc7eeynp4wwuaosmvgoa_155.0.8059.80/155.0.8059.80_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-f586ddb44ced63c62759a9bfd44fa040c9bd9fa952cad56d688d6b25b2b75f24  x86_155.0.8059.40
-c43d400e13d421f43ea3bba7e502004f2fe428e5679b32975e3a343bc1d97f06  x64_155.0.8059.40
-db0a36c12f8e74289b4d57ace1a04dd870cb470c531d7a29da0128eee3aa3ee6  arm64_155.0.8059.40
+0926ac8f3182e3c244a715176662b192eade7a5eae36610ddf9d186f00cf483f  x86_155.0.8059.80
+90f385e76ae2d728551f72e457a07f8ccb60d85494346e79c2f1bd401bd72aa0  x64_155.0.8059.80
+300d823840652519efff3ef1e2ee55f4438f1047ebd63709596c40b293f23fcd  arm64_155.0.8059.80
 ```
 
 </details>
