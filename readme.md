@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto Update Chrome 156.0.8078.48 at 2026-10-21 23:45:07
+> 📝 Auto Update Chrome 156.0.8078.48 at 2026-10-22 03:47:49
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -72,7 +72,7 @@ e7edd1600c7aec6d274cbd22a1f7c4ca73720409aa9b262f50123896443fb6c3  arm64_158.0.81
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
 | x86 | `158.0.8115.0` | 437.84 MB | `e61606eff56342c9...` | [下载](https://dl.google.com/release2/chrome/adbeuw5cnjusnfb3m7vgsarfqthq_158.0.8115.0/158.0.8115.0_chrome_installer_uncompressed.exe) |
-| x64 | `158.0.8115.0` | 511.96 MB | `b6c894ac9cbf233e...` | [下载](https://dl.google.com/release2/chrome/fahmkievsldjdd2326zw6vt62i_158.0.8115.0/158.0.8115.0_chrome_installer_uncompressed.exe) |
+| x64 | `158.0.8116.0` | 518.32 MB | `30a153adfe18d0f8...` | [下载](https://dl.google.com/release2/chrome/fzfnm4wiznxfbis7yrnljj2o3q_158.0.8116.0/158.0.8116.0_chrome_installer_uncompressed.exe) |
 | arm64 | `158.0.8115.0` | 483.92 MB | `a9e42cdf511014f6...` | [下载](https://dl.google.com/release2/chrome/ad6eb3mdppzjq6h25h6amhdcwlcq_158.0.8115.0/158.0.8115.0_chrome_installer_uncompressed.exe) |
 
 <details>
@@ -80,7 +80,7 @@ e7edd1600c7aec6d274cbd22a1f7c4ca73720409aa9b262f50123896443fb6c3  arm64_158.0.81
 
 ```
 e61606eff56342c90345096786c47196364810f5f49cb2e94c94451aa3d7f8a2  x86_158.0.8115.0
-b6c894ac9cbf233e34588bd1f32fbca387e6d572e2cbf2b2119fb43d618e5169  x64_158.0.8115.0
+30a153adfe18d0f8c0ab004fc0fd93eba7f2599c0e26b0ccaad7285df6d0bde7  x64_158.0.8116.0
 a9e42cdf511014f6ad422af41687e75a8b74fee0d19575f7a8cdc1db56789d51  arm64_158.0.8115.0
 ```
 
