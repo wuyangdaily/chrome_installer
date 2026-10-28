@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto Update Chrome 156.0.8078.74 at 2026-10-29 00:53:57
+> 📝 Auto Update Chrome 156.0.8078.74 at 2026-10-29 05:26:55
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -33,17 +33,17 @@ f56a3277044ea74eb1cd7555d196dd784db1ed4d795b1ed7e10142a3e697b89c  arm64_156.0.80
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `157.0.8103.15` | 433.1 MB | `02f6e78407e3012f...` | [下载](https://dl.google.com/release2/chrome/achyq5vqfnxmqt2q6hjev52dvfya_157.0.8103.15/157.0.8103.15_chrome_installer_uncompressed.exe) |
-| x64 | `157.0.8103.15` | 503.31 MB | `11328b8af320fe18...` | [下载](https://dl.google.com/release2/chrome/acuavhoqemlbiybwk3btsdt2csgq_157.0.8103.15/157.0.8103.15_chrome_installer_uncompressed.exe) |
-| arm64 | `157.0.8103.15` | 481.64 MB | `631730db410b5631...` | [下载](https://dl.google.com/release2/chrome/enumyn7aphb5v5oxavo3xnbyyy_157.0.8103.15/157.0.8103.15_chrome_installer_uncompressed.exe) |
+| x86 | `158.0.8127.2` | 439.76 MB | `8499bc349e9f498b...` | [下载](https://dl.google.com/release2/chrome/ade6e3mhij3qxenep6zt7zv4wirq_158.0.8127.2/158.0.8127.2_chrome_installer_uncompressed.exe) |
+| x64 | `158.0.8127.2` | 511.63 MB | `0b23375926b9f6de...` | [下载](https://dl.google.com/release2/chrome/acluhgqwcv7bswtqy52a2zfdb72q_158.0.8127.2/158.0.8127.2_chrome_installer_uncompressed.exe) |
+| arm64 | `158.0.8127.2` | 484.51 MB | `e74090d10c09b8b7...` | [下载](https://dl.google.com/release2/chrome/ac5kkozxlzlok75naad56mwmdikq_158.0.8127.2/158.0.8127.2_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-02f6e78407e3012fe40ed8e7b299e97ae227cc3760a5704871f52d8248a8114b  x86_157.0.8103.15
-11328b8af320fe18577f0938c5bb17df74f44e4df784716fb95816b92723a7c5  x64_157.0.8103.15
-631730db410b5631fc70a019b0ce6cdb8588618101fc8ee8d5dc7c1e49d388d8  arm64_157.0.8103.15
+8499bc349e9f498b24d37108723d0f5b0795e424caca8c998c95020bb0449cda  x86_158.0.8127.2
+0b23375926b9f6de49a0f009dd374d6d9a7b900a507b62cfc4bec31db2fd12ca  x64_158.0.8127.2
+e74090d10c09b8b7d8e8d65efac936c859adb2b55052a92d51a48ea028149b33  arm64_158.0.8127.2
 ```
 
 </details>
@@ -71,17 +71,17 @@ c5600edbc287929c8b048efe39f76c626d9ead6c23fb02a52e4360282e3f3806  arm64_158.0.81
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `159.0.8128.2` | 439.38 MB | `60ce912c2c537ddb...` | [下载](https://dl.google.com/release2/chrome/ac7o7g226fzxmygjfefgdqvmzcuq_159.0.8128.2/159.0.8128.2_chrome_installer_uncompressed.exe) |
-| x64 | `159.0.8128.2` | 511.97 MB | `ba8190c103ca4af3...` | [下载](https://dl.google.com/release2/chrome/adcnalizzdcaamchwgkjhgcg5prq_159.0.8128.2/159.0.8128.2_chrome_installer_uncompressed.exe) |
-| arm64 | `159.0.8128.2` | 485.09 MB | `b10c916f92f535d3...` | [下载](https://dl.google.com/release2/chrome/ach342pxyytfcguorvtm37hiaaeq_159.0.8128.2/159.0.8128.2_chrome_installer_uncompressed.exe) |
+| x86 | `159.0.8129.0` | 439.49 MB | `057d742a115b8fe2...` | [下载](https://dl.google.com/release2/chrome/g3y55c7ridnwqfml2t75sosdlq_159.0.8129.0/159.0.8129.0_chrome_installer_uncompressed.exe) |
+| x64 | `159.0.8129.0` | 512.05 MB | `23395dd60d08dc1c...` | [下载](https://dl.google.com/release2/chrome/glszy7g6zdbvnieogesa3buv4q_159.0.8129.0/159.0.8129.0_chrome_installer_uncompressed.exe) |
+| arm64 | `159.0.8129.0` | 484.65 MB | `afce844f0dd84618...` | [下载](https://dl.google.com/release2/chrome/ja5xgvdiapyxghmrak6jw43gv4_159.0.8129.0/159.0.8129.0_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-60ce912c2c537ddbffb6725535579d6e1f3c23fc879f81f6aaf34a1dd2c81ac3  x86_159.0.8128.2
-ba8190c103ca4af3733e6b47f32b4963bf0110d945940942b1a3345c753a0402  x64_159.0.8128.2
-b10c916f92f535d3d4699398d896978ef1b0582991a480f90dacbc9c485b7a88  arm64_159.0.8128.2
+057d742a115b8fe2391502079a86975305e12b6e657613d81ad713c242c7a621  x86_159.0.8129.0
+23395dd60d08dc1ce51a76795bb97da1fdb1059a31a8f6e0131178c4a16e31e8  x64_159.0.8129.0
+afce844f0dd84618ce932eeb185bb7d99b84c14385bd3b2680b3eecc1da57ae1  arm64_159.0.8129.0
 ```
 
 </details>
