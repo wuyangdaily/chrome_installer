@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto Update Chrome 157.0.8103.39 at 2026-11-04 12:01:40
+> 📝 Auto Update Chrome 157.0.8103.39 at 2026-11-04 20:40:48
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -71,17 +71,17 @@ f08653aab5e9e4a765e33072bbed5e9a1d97d5e9bb17baa02cab660124c19243  x64_159.0.8130
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `159.0.8141.0` | 420.09 MB | `8433236dbbbc3048...` | [下载](https://dl.google.com/release2/chrome/ace2vqe4kbxeget7a4qtbcfzlwtq_159.0.8141.0/159.0.8141.0_chrome_installer_uncompressed.exe) |
-| x64 | `159.0.8141.0` | 511.21 MB | `fde7cccd6f7d6386...` | [下载](https://dl.google.com/release2/chrome/ada4dbe34snnfgagxjweo3bcxtcq_159.0.8141.0/159.0.8141.0_chrome_installer_uncompressed.exe) |
-| arm64 | `159.0.8141.0` | 483.6 MB | `62d687665aa11654...` | [下载](https://dl.google.com/release2/chrome/adcvaas4rw7m6a4kvo32accs7epa_159.0.8141.0/159.0.8141.0_chrome_installer_uncompressed.exe) |
+| x86 | `159.0.8142.1` | 592.48 MB | `881f8aa8592b1647...` | [下载](https://dl.google.com/release2/chrome/dtprvforh6uoemgjtkdgwpu74q_159.0.8142.1/159.0.8142.1_chrome_installer_uncompressed.exe) |
+| x64 | `159.0.8142.0` | 512.49 MB | `16b8a746367a084d...` | [下载](https://dl.google.com/release2/chrome/adp3q7xbogweeotlljczxypszd7q_159.0.8142.0/159.0.8142.0_chrome_installer_uncompressed.exe) |
+| arm64 | `159.0.8142.0` | 483.43 MB | `c4a6ebc1a725729a...` | [下载](https://dl.google.com/release2/chrome/k57jhgvijqnychu5p4dropzi2e_159.0.8142.0/159.0.8142.0_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-8433236dbbbc3048d4df3842a99c1bcba7d69d22f2bfa5f0ad6e3434e4e4aa6c  x86_159.0.8141.0
-fde7cccd6f7d638646872d2528a72130c9f13dfccd3d1b57be254bb2296dacbf  x64_159.0.8141.0
-62d687665aa1165475443a8232ef97fc1cc25feb2881763367d2c8a1a5dd277c  arm64_159.0.8141.0
+881f8aa8592b1647e7dcd21d9952f1652099305cf588d98b7c4308ff424461f2  x86_159.0.8142.1
+16b8a746367a084d7a1a1848f13c7ed017e88d3a0cc3ebef48775181ca67cf69  x64_159.0.8142.0
+c4a6ebc1a725729ab7fce8e79e1ca8ecf9262ae3a33a67c3d5e72d4195493620  arm64_159.0.8142.0
 ```
 
 </details>
