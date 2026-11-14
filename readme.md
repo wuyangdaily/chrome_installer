@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto Update Chrome 157.0.8103.79 at 2026-11-14 08:12:20
+> 📝 Auto Update Chrome 157.0.8103.79 at 2026-11-14 15:13:11
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
