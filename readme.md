@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto Update Chrome 157.0.8103.79 at 2026-11-16 20:24:37
+> 📝 Auto Update Chrome 157.0.8103.79 at 2026-11-17 06:40:05
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -71,17 +71,17 @@ ebcb883d4d0741aa7f93ed221daf7ff5f474a80986710e9584ff27f8c55ac0eb  x64_160.0.8157
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `160.0.8165.0` | 425.27 MB | `2dc72098ccdaa2e3...` | [下载](https://dl.google.com/release2/chrome/be674p47wreo4hl7mddme7yani_160.0.8165.0/160.0.8165.0_chrome_installer_uncompressed.exe) |
-| x64 | `160.0.8165.0` | 519.31 MB | `59eeb2129b77b885...` | [下载](https://dl.google.com/release2/chrome/acwlizk3p7pqdeum5ojzoo6ybudq_160.0.8165.0/160.0.8165.0_chrome_installer_uncompressed.exe) |
-| arm64 | `160.0.8164.0` | 488.4 MB | `39720b72550c185d...` | [下载](https://dl.google.com/release2/chrome/eob6l7h5k2dloeyfk6dsnpjqwq_160.0.8164.0/160.0.8164.0_chrome_installer_uncompressed.exe) |
+| x86 | `160.0.8166.0` | 426.33 MB | `35a226bbbe239588...` | [下载](https://dl.google.com/release2/chrome/lab637lwl342n7p72p54a7udou_160.0.8166.0/160.0.8166.0_chrome_installer_uncompressed.exe) |
+| x64 | `160.0.8165.1` | 743.22 MB | `809e122b4542eb21...` | [下载](https://dl.google.com/release2/chrome/btsgvwflkvjsakyd6f6afck37e_160.0.8165.1/160.0.8165.1_chrome_installer_uncompressed.exe) |
+| arm64 | `160.0.8166.0` | 488.72 MB | `302b726cb1b9f94a...` | [下载](https://dl.google.com/release2/chrome/ad6x6rsp2ywuee26m5ullvaeudja_160.0.8166.0/160.0.8166.0_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-2dc72098ccdaa2e3da22c72b984665919779d93c48c96c969b5e3c3720e1d823  x86_160.0.8165.0
-59eeb2129b77b885ffc35f429c4f83f101a98210f57273060e592480855248e5  x64_160.0.8165.0
-39720b72550c185d1088cf4cd998b21a298281708eef5b616cf06e8852ecda54  arm64_160.0.8164.0
+35a226bbbe239588c2206970249f5822bc97d0bd11fc758d728bbdc56f0c2a17  x86_160.0.8166.0
+809e122b4542eb21ef2fbe1dc6ea6ff45a1bd21c5c5db5b6a188217b8bc5d2a7  x64_160.0.8165.1
+302b726cb1b9f94aa31fc88861d117bc6a82cd1dab32d0f6db10f75a07178a05  arm64_160.0.8166.0
 ```
 
 </details>
