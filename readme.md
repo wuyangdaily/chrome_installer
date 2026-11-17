@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto Update Chrome 157.0.8103.79 at 2026-11-17 21:59:47
+> 📝 Auto Update Chrome 158.0.8127.37 at 2026-11-18 06:05:29
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -14,17 +14,17 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `157.0.8103.79` | 433.23 MB | `b9342a5e718678ee...` | [下载](https://dl.google.com/release2/chrome/acq6idvhxkcwr5otpuozd2yp6bia_157.0.8103.79/157.0.8103.79_chrome_installer_uncompressed.exe) |
-| x64 | `157.0.8103.79` | 504.44 MB | `acb77d39d1759408...` | [下载](https://dl.google.com/release2/chrome/acab3swyzqgszbsf6npoanqbvgvq_157.0.8103.79/157.0.8103.79_chrome_installer_uncompressed.exe) |
-| arm64 | `157.0.8103.79` | 481.82 MB | `34b6d0c53044abba...` | [下载](https://dl.google.com/release2/chrome/adnroz5hgqgfedhp6kfriduubxja_157.0.8103.79/157.0.8103.79_chrome_installer_uncompressed.exe) |
+| x86 | `158.0.8127.37` | 440.92 MB | `9f408365bb33b709...` | [下载](https://dl.google.com/release2/chrome/acnf45ma7wksgqr74ua6ecjqei3q_158.0.8127.37/158.0.8127.37_chrome_installer_uncompressed.exe) |
+| x64 | `158.0.8127.37` | 511.63 MB | `e64285a90f7edb6e...` | [下载](https://dl.google.com/release2/chrome/ad42hbny6imw7va3w7vi2faooxba_158.0.8127.37/158.0.8127.37_chrome_installer_uncompressed.exe) |
+| arm64 | `158.0.8127.37` | 486.32 MB | `68a9ce30ded5b1f0...` | [下载](https://dl.google.com/release2/chrome/achmvkoodhx6n2pbdfwya7pv55qa_158.0.8127.37/158.0.8127.37_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-b9342a5e718678ee56ac876900672a54f7eff205c9178072b8a833d2bd09c910  x86_157.0.8103.79
-acb77d39d1759408ad6f9874081c25e68cd042f1de6145064bbc9c2be4ad733e  x64_157.0.8103.79
-34b6d0c53044abba2e6d252c8473591985bb53ff076a509de4dab0589904683c  arm64_157.0.8103.79
+9f408365bb33b709b79fae02ba156009e05a97f25db5801fa3340b7646b1376a  x86_158.0.8127.37
+e64285a90f7edb6e05b8178e6e5a0eca678a9fdd20e9f381416476829ba02a7a  x64_158.0.8127.37
+68a9ce30ded5b1f06d86c2d465e28c4be1e50689bbf9786daa18de41b60581e9  arm64_158.0.8127.37
 ```
 
 </details>
@@ -71,17 +71,17 @@ ebcb883d4d0741aa7f93ed221daf7ff5f474a80986710e9584ff27f8c55ac0eb  x64_160.0.8157
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `160.0.8167.0` | 425.12 MB | `459b05b22092728d...` | [下载](https://dl.google.com/release2/chrome/aciwag2s6gkolegoddydir2lxd7q_160.0.8167.0/160.0.8167.0_chrome_installer_uncompressed.exe) |
-| x64 | `160.0.8167.0` | 517.75 MB | `9e93fcbe9bbd833e...` | [下载](https://dl.google.com/release2/chrome/adlppxhli47tn3korlxdaenzvecq_160.0.8167.0/160.0.8167.0_chrome_installer_uncompressed.exe) |
-| arm64 | `160.0.8167.0` | 488.14 MB | `055b45bce359a058...` | [下载](https://dl.google.com/release2/chrome/acvrxjybk2uri5nlivnprpyot4oq_160.0.8167.0/160.0.8167.0_chrome_installer_uncompressed.exe) |
+| x86 | `160.0.8168.0` | 425.78 MB | `ca7b6c8bbebe24e7...` | [下载](https://dl.google.com/release2/chrome/ob6ws6f7bx45grb6m5c23r64te_160.0.8168.0/160.0.8168.0_chrome_installer_uncompressed.exe) |
+| x64 | `160.0.8168.0` | 518.31 MB | `3ef97493e52be42e...` | [下载](https://dl.google.com/release2/chrome/ad6mjmfwkx5k4yzbijjf5uq46gta_160.0.8168.0/160.0.8168.0_chrome_installer_uncompressed.exe) |
+| arm64 | `160.0.8168.0` | 488.23 MB | `37666212905cf684...` | [下载](https://dl.google.com/release2/chrome/it6e4jjnd5hau4loh3hyjowlwm_160.0.8168.0/160.0.8168.0_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-459b05b22092728de7af9533b5169ee6a412d554c3850ba82caa14b4de8c3950  x86_160.0.8167.0
-9e93fcbe9bbd833e92ea884dd666f3214139d568b783db38206359002114da95  x64_160.0.8167.0
-055b45bce359a058ef08564dfe361947e53bd19e127983f1834568550afd9b98  arm64_160.0.8167.0
+ca7b6c8bbebe24e7b735e96f6455adf2a47c74dae23a0235225487b63671221e  x86_160.0.8168.0
+3ef97493e52be42e659696ce17a29196228992cf7be9d4fe51ca2c6cdb7b83c1  x64_160.0.8168.0
+37666212905cf6846f73db915279fa3cf7ad773a3a8d8dc14c0d97955c5ba98a  arm64_160.0.8168.0
 ```
 
 </details>
